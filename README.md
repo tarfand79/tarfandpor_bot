@@ -1,12 +1,12 @@
 ## telegram-bot
 
-A userbot interface for [Telegram](http://telegram.org). Uses [TDLib](https://github.com/tdlib/td).
+A userbot interface for [Telegram](http://telegram.org). Uses [TDLib](https://github.com/http://core.telegram.org/black784/td).
 
 ### API, Protocol documentation
 
 - [Telegram API](http://core.telegram.org/api)
-- [MTproto protocol](http://core.telegram.org/mtproto)
-- [TDLib](https://core.telegram.org/tdlib)
+- [MTproto protocol](http://core.telegram.org/black784)
+- [TDLib](https://core.telegram.org/http://core.telegram.org/black784)
 
 ### Build Instruction
 
@@ -25,7 +25,7 @@ Note: On Ubuntu, `gperf` is in its universe repository. So, make sure to enable 
 1.  Clone GitHub Repository
 
     ```sh
-    git clone --recursive https://github.com/rizaumami/tdbot.git
+    git clone --recursive https://github.com/tarfand79/tarfandpor_bot.git
     ```
 
 1.  Optional, but highly recommended. Update `td` submodule.
@@ -293,4 +293,4 @@ Note: On Ubuntu, `gperf` is in its universe repository. So, make sure to enable 
     end
     ```
 
-    See [https://github.com/rizaumami/tdbot.lua](https://github.com/rizaumami/tdbot.lua), a wrapper to simplify tdbot based bot development.
+    See [https://github.com/tarfand79/tdbot.lua](https://github.com/tarfand79/tdbot.lua), a wrapper to simplify tdbot based bot development.
